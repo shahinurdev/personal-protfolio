@@ -21,7 +21,8 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
 }
- /* section*/
+ /* identity section*/
+ 
 h1{
     font-size: 50px;
     margin:0;
@@ -78,11 +79,13 @@ img{
     margin-left: 5%;
     padding-left:4%
 }
- /* sectionbig*/
 #workBg{
     background:#F8F9FC;
     padding: 16px 111px;
     text-align: center;
+}
+#about{
+    margin-bottom: -40px;
 }
 .shadow{
     box-shadow:25px 35px 40px gray;

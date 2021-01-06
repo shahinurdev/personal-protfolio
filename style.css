@@ -34,11 +34,10 @@ section{
     height: 500px;
 }
 .leftSide{
-    width: 45%;
+    width: 42%;
     float: left;
     margin-left: 5%;
-    
-    
+ 
 }
 img{
     width: 76%;
@@ -174,7 +173,7 @@ img{
         height: auto;
         display:flex;
         margin-left: 44%;
-        margin-top: 5px;
+        margin-top: 8px;
     }
     .icon img {
         padding-right: 15px;
